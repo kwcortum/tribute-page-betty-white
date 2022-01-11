@@ -16,6 +16,12 @@ body {
     height: 100%;
     width: 50%;
   }
+
+  #img-caption {
+    height: 100%;
+    width: 45%;
+    text-align: center;
+  }
   
   .flex-container {
     display: flex;
