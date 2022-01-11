@@ -1,0 +1,1 @@
+This is a tribute page being made to Betty White as part of my certification in freeCodeCamp. I will be using HTML and CSS to complete this project.
